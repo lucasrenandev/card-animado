@@ -57,6 +57,7 @@ section .card .icons {
     position: absolute;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 section .card .fa-chevron-left, .fa-chevron-right {
